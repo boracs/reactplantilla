@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react/prueba/static/css/main.64d5d5bc.css",
+    "main.js": "/react/prueba/static/js/main.6577d1a2.js",
+    "static/js/787.d99ee804.chunk.js": "/react/prueba/static/js/787.d99ee804.chunk.js",
+    "static/media/surf.jpg": "/react/prueba/static/media/surf.0750d357fde2fda5c9dd.jpg",
+    "static/media/windsurf.jpg": "/react/prueba/static/media/windsurf.f50c988f52f2b21ac5ad.jpg",
+    "static/media/kytesurf.jpg": "/react/prueba/static/media/kytesurf.c602aa5204fd6a90cf4d.jpg",
+    "static/media/tenis.jpg": "/react/prueba/static/media/tenis.4144b0cc3ba7b37eda42.jpg",
+    "static/media/yoga.jpg": "/react/prueba/static/media/yoga.4922686d51b9f2adc849.jpg",
+    "static/media/sky.jpg": "/react/prueba/static/media/sky.0a085c2e2aed73e961b6.jpg",
+    "static/media/bici.jpg": "/react/prueba/static/media/bici.ca79e6c227b8f785f50c.jpg",
+    "static/media/futbol.jpg": "/react/prueba/static/media/futbol.bb3dae197fab18f0b1e6.jpg",
+    "static/media/nadar.jpg": "/react/prueba/static/media/nadar.2b606760b953de551e4d.jpg",
+    "static/media/baloncesto.jpg": "/react/prueba/static/media/baloncesto.879e2251537940d04d20.jpg",
+    "index.html": "/react/prueba/index.html",
+    "main.64d5d5bc.css.map": "/react/prueba/static/css/main.64d5d5bc.css.map",
+    "main.6577d1a2.js.map": "/react/prueba/static/js/main.6577d1a2.js.map",
+    "787.d99ee804.chunk.js.map": "/react/prueba/static/js/787.d99ee804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d5d5bc.css",
+    "static/js/main.6577d1a2.js"
+  ]
+}
